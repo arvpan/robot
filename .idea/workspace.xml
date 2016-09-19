@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7405db1-61f5-411e-9ddc-0c93a808e12a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/googlism_cache" afterPath="$PROJECT_DIR$/scripts/googlism_cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/multiple.db" afterPath="$PROJECT_DIR$/scripts/multiple.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/rhymes.db" afterPath="$PROJECT_DIR$/scripts/rhymes.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/words.db" afterPath="$PROJECT_DIR$/scripts/words.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/psychology.aiml" afterPath="$PROJECT_DIR$/standard/psychology.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/hatter.png" afterPath="$PROJECT_DIR$/static/hatter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/SiteEgg.egg" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/SiteEgg.egg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/ubuntu.ttf" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/ubuntu.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/file1.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/file1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/file2.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/file2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/file1.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/file1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/file2.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/file2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/file1.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/file1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/file2.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/file2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/file1.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/file1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/file2.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/file2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/file1.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/file1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/file2.png" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/file2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENCE" afterPath="$PROJECT_DIR$/LICENCE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hatter-cli.py" afterPath="$PROJECT_DIR$/hatter-cli.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/_readme.txt" afterPath="$PROJECT_DIR$/standard/_readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/ai.aiml" afterPath="$PROJECT_DIR$/standard/ai.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/alice.aiml" afterPath="$PROJECT_DIR$/standard/alice.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/astrology.aiml" afterPath="$PROJECT_DIR$/standard/astrology.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/atomic.aiml" afterPath="$PROJECT_DIR$/standard/atomic.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/badanswer.aiml" afterPath="$PROJECT_DIR$/standard/badanswer.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/biography.aiml" afterPath="$PROJECT_DIR$/standard/biography.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/bot.aiml" afterPath="$PROJECT_DIR$/standard/bot.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/bot_profile.aiml" afterPath="$PROJECT_DIR$/standard/bot_profile.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/client.aiml" afterPath="$PROJECT_DIR$/standard/client.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/client_profile.aiml" afterPath="$PROJECT_DIR$/standard/client_profile.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/computers.aiml" afterPath="$PROJECT_DIR$/standard/computers.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/continuation.aiml" afterPath="$PROJECT_DIR$/standard/continuation.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/date.aiml" afterPath="$PROJECT_DIR$/standard/date.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/default.aiml" afterPath="$PROJECT_DIR$/standard/default.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/dev-calendar.aiml" afterPath="$PROJECT_DIR$/standard/dev-calendar.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/dev-examples.aiml" afterPath="$PROJECT_DIR$/standard/dev-examples.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/dev-scripts.aiml" afterPath="$PROJECT_DIR$/standard/dev-scripts.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/dev-testcases.aiml" afterPath="$PROJECT_DIR$/standard/dev-testcases.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/dev-translation.aiml" afterPath="$PROJECT_DIR$/standard/dev-translation.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/dev-webhelper.aiml" afterPath="$PROJECT_DIR$/standard/dev-webhelper.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/drugs.aiml" afterPath="$PROJECT_DIR$/standard/drugs.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/emotion.aiml" afterPath="$PROJECT_DIR$/standard/emotion.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/food.aiml" afterPath="$PROJECT_DIR$/standard/food.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/geography.aiml" afterPath="$PROJECT_DIR$/standard/geography.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/gossip.aiml" afterPath="$PROJECT_DIR$/standard/gossip.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/history.aiml" afterPath="$PROJECT_DIR$/standard/history.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/howie-acronym.aiml" afterPath="$PROJECT_DIR$/standard/howie-acronym.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/howie-googlism.aiml" afterPath="$PROJECT_DIR$/standard/howie-googlism.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/howie-rhyme.aiml" afterPath="$PROJECT_DIR$/standard/howie-rhyme.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/humor.aiml" afterPath="$PROJECT_DIR$/standard/humor.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/imponderables.aiml" afterPath="$PROJECT_DIR$/standard/imponderables.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/inquiry.aiml" afterPath="$PROJECT_DIR$/standard/inquiry.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/interjection.aiml" afterPath="$PROJECT_DIR$/standard/interjection.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/iu.aiml" afterPath="$PROJECT_DIR$/standard/iu.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/knowledge.aiml" afterPath="$PROJECT_DIR$/standard/knowledge.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/literature.aiml" afterPath="$PROJECT_DIR$/standard/literature.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/loebner10.aiml" afterPath="$PROJECT_DIR$/standard/loebner10.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/money.aiml" afterPath="$PROJECT_DIR$/standard/money.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/movies.aiml" afterPath="$PROJECT_DIR$/standard/movies.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp0.aiml" afterPath="$PROJECT_DIR$/standard/mp0.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp1.aiml" afterPath="$PROJECT_DIR$/standard/mp1.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp2.aiml" afterPath="$PROJECT_DIR$/standard/mp2.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp3.aiml" afterPath="$PROJECT_DIR$/standard/mp3.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp4.aiml" afterPath="$PROJECT_DIR$/standard/mp4.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp5.aiml" afterPath="$PROJECT_DIR$/standard/mp5.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/mp6.aiml" afterPath="$PROJECT_DIR$/standard/mp6.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/music.aiml" afterPath="$PROJECT_DIR$/standard/music.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/numbers.aiml" afterPath="$PROJECT_DIR$/standard/numbers.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/per-drWallace.aiml" afterPath="$PROJECT_DIR$/standard/per-drWallace.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/personality.aiml" afterPath="$PROJECT_DIR$/standard/personality.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/phone.aiml" afterPath="$PROJECT_DIR$/standard/phone.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/pickup.aiml" afterPath="$PROJECT_DIR$/standard/pickup.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/politics.aiml" afterPath="$PROJECT_DIR$/standard/politics.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/primeminister.aiml" afterPath="$PROJECT_DIR$/standard/primeminister.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/primitive-math.aiml" afterPath="$PROJECT_DIR$/standard/primitive-math.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/reduction0.safe.aiml" afterPath="$PROJECT_DIR$/standard/reduction0.safe.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/reduction1.safe.aiml" afterPath="$PROJECT_DIR$/standard/reduction1.safe.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/reduction2.safe.aiml" afterPath="$PROJECT_DIR$/standard/reduction2.safe.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/reduction3.safe.aiml" afterPath="$PROJECT_DIR$/standard/reduction3.safe.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/reduction4.safe.aiml" afterPath="$PROJECT_DIR$/standard/reduction4.safe.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/reductions-update.aiml" afterPath="$PROJECT_DIR$/standard/reductions-update.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/religion.aiml" afterPath="$PROJECT_DIR$/standard/religion.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/salutations.aiml" afterPath="$PROJECT_DIR$/standard/salutations.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/science.aiml" afterPath="$PROJECT_DIR$/standard/science.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/sex.aiml" afterPath="$PROJECT_DIR$/standard/sex.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/sports.aiml" afterPath="$PROJECT_DIR$/standard/sports.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/stack.aiml" afterPath="$PROJECT_DIR$/standard/stack.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/startup.xml" afterPath="$PROJECT_DIR$/standard/startup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-65percent.aiml" afterPath="$PROJECT_DIR$/standard/std-65percent.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-atomic.aiml" afterPath="$PROJECT_DIR$/standard/std-atomic.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-botmaster.aiml" afterPath="$PROJECT_DIR$/standard/std-botmaster.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-brain.aiml" afterPath="$PROJECT_DIR$/standard/std-brain.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-connect.aiml" afterPath="$PROJECT_DIR$/standard/std-connect.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-dictionary.aiml" afterPath="$PROJECT_DIR$/standard/std-dictionary.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-disconnect.aiml" afterPath="$PROJECT_DIR$/standard/std-disconnect.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-dont.aiml" afterPath="$PROJECT_DIR$/standard/std-dont.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-errors.aiml" afterPath="$PROJECT_DIR$/standard/std-errors.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-gender.aiml" afterPath="$PROJECT_DIR$/standard/std-gender.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-geography.aiml" afterPath="$PROJECT_DIR$/standard/std-geography.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-german.aiml" afterPath="$PROJECT_DIR$/standard/std-german.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-gossip.aiml" afterPath="$PROJECT_DIR$/standard/std-gossip.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-hello.aiml" afterPath="$PROJECT_DIR$/standard/std-hello.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-inactivity.aiml" afterPath="$PROJECT_DIR$/standard/std-inactivity.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-inventions.aiml" afterPath="$PROJECT_DIR$/standard/std-inventions.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-knowledge.aiml" afterPath="$PROJECT_DIR$/standard/std-knowledge.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-lizards.aiml" afterPath="$PROJECT_DIR$/standard/std-lizards.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-login.aiml" afterPath="$PROJECT_DIR$/standard/std-login.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-numbers.aiml" afterPath="$PROJECT_DIR$/standard/std-numbers.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-personality.aiml" afterPath="$PROJECT_DIR$/standard/std-personality.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-pickup.aiml" afterPath="$PROJECT_DIR$/standard/std-pickup.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-politics.aiml" afterPath="$PROJECT_DIR$/standard/std-politics.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-profile.aiml" afterPath="$PROJECT_DIR$/standard/std-profile.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-religion.aiml" afterPath="$PROJECT_DIR$/standard/std-religion.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-robot.aiml" afterPath="$PROJECT_DIR$/standard/std-robot.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-sales.aiml" afterPath="$PROJECT_DIR$/standard/std-sales.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-sextalk.aiml" afterPath="$PROJECT_DIR$/standard/std-sextalk.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-sports.aiml" afterPath="$PROJECT_DIR$/standard/std-sports.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-srai.aiml" afterPath="$PROJECT_DIR$/standard/std-srai.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-suffixes.aiml" afterPath="$PROJECT_DIR$/standard/std-suffixes.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-that.aiml" afterPath="$PROJECT_DIR$/standard/std-that.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-turing.aiml" afterPath="$PROJECT_DIR$/standard/std-turing.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/std-yesno.aiml" afterPath="$PROJECT_DIR$/standard/std-yesno.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/stories.aiml" afterPath="$PROJECT_DIR$/standard/stories.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/that.aiml" afterPath="$PROJECT_DIR$/standard/that.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/update1.aiml" afterPath="$PROJECT_DIR$/standard/update1.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/wallace.aiml" afterPath="$PROJECT_DIR$/standard/wallace.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standard/xfind.aiml" afterPath="$PROJECT_DIR$/standard/xfind.aiml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/style.css" afterPath="$PROJECT_DIR$/static/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/activate" afterPath="$PROJECT_DIR$/venv/bin/activate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/activate.csh" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/activate.fish" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/activate_this.py" afterPath="$PROJECT_DIR$/venv/bin/activate_this.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/distutils/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/distutils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/distutils/distutils.cfg" afterPath="$PROJECT_DIR$/venv/lib/python2.7/distutils/distutils.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/no-global-site-packages.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/no-global-site-packages.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/orig-prefix.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/orig-prefix.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/installed-files.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/installed-files.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/not-zip-safe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/not-zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/requires.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/requires.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.10.1-py2.7.egg-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/entry_points.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/entry_points.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/installed-files.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/installed-files.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/not-zip-safe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/not-zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/requires.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/requires.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.7.3-py2.7.egg-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/installed-files.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/installed-files.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/not-zip-safe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/not-zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7.egg-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/installed-files.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/installed-files.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/not-zip-safe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/not-zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.9.6-py2.7.egg-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/_markerlib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/_markerlib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/_markerlib/markers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/_markerlib/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/easy_install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/easy_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/_compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/app.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/blueprints.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/blueprints.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/config.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ctx.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ctx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/debughelpers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/debughelpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ext/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ext/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/exthook.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/exthook.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/globals.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/globals.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/helpers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/helpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/json.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/json.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/logging.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/logging.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/module.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/module.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/sessions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/signals.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/signals.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/templating.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/templating.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/appctx.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/appctx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/basic.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/basic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/blueprints.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/blueprints.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/config.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/deprecations.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/deprecations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/examples.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/examples.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/ext.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/helpers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/helpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/regression.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/regression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/reqctx.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/reqctx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/signals.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/signals.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/static/index.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/static/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/subclassing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/subclassing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/_macro.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/_macro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/context_template.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/context_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/escaping_template.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/escaping_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/mail.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/mail.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/nested/nested.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/nested/nested.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/simple_template.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/simple_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/template_filter.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/template_filter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/template_test.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templates/template_test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templating.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/templating.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/static/css/test.css" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/static/css/test.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/static/test.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/static/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/templates/admin/index.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/admin/templates/admin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/blueprintapp/apps/frontend/templates/frontend/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/config_module_app.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/config_module_app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/config_package_app/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/config_package_app/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_broken/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_broken/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_broken/b.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_broken/b.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_newext_package/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_newext_package/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_newext_package/submodule.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_newext_package/submodule.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_newext_simple.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flask_newext_simple.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/oldext_package/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/oldext_package/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/oldext_package/submodule.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/oldext_package/submodule.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/oldext_simple.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/flaskext/oldext_simple.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/importerror.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/importerror.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/site_app.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/site_app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/site_package/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/lib/python2.5/site-packages/site_package/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/main_app.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/main_app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/static/css/test.css" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/static/css/test.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/static/test.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/static/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/templates/index.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/admin/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/templates/index.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/moduleapp/apps/frontend/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/path/installed_package/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/path/installed_package/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/subdomaintestmodule/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/subdomaintestmodule/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/subdomaintestmodule/static/hello.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/test_apps/subdomaintestmodule/static/hello.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/testing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/testing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/views.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testsuite/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/views.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/wrappers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/installed-files.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/installed-files.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/not-zip-safe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/not-zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous-0.24-py2.7.egg-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/itsdangerous.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_stringdefs.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_stringdefs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/bccache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/bccache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/compiler.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/compiler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/constants.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/debug.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/debug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/defaults.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/defaults.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/environment.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/environment.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/ext.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/filters.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/filters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/lexer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/lexer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/loaders.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/loaders.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/meta.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/meta.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/nodes.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/nodes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/optimizer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/optimizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/parser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/runtime.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/runtime.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/sandbox.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/sandbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/tests.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/api.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/bytecode_cache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/bytecode_cache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/core_tags.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/core_tags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/debug.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/debug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/doctests.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/doctests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/ext.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/filters.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/filters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/imports.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/imports.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/inheritance.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/inheritance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/lexnparse.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/lexnparse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/loader.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/loader.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/regression.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/regression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/broken.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/broken.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/foo/test.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/foo/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/syntaxerror.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/syntaxerror.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/test.html" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/res/templates/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/security.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/security.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/tests.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/testsuite/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/visitor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/visitor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_constants.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_native.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_native.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_speedups.c" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_speedups.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/tests.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/DESCRIPTION.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/METADATA" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/METADATA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/WHEEL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/entry_points.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/metadata.json" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/metadata.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-1.5.6.dist-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__main__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__main__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/_markerlib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/_markerlib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/_markerlib/markers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/_markerlib/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansi.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/initialise.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/win32.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/win32.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/winterm.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/misc.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/index.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/locators.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/locators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/manifest.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/markers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/markers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/metadata.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/resources.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/resources.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/scripts.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/util.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/version.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/constants.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/_base.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/lint.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/ihatexml.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/ihatexml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/inputstream.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/inputstream.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/sanitizer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/sanitizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/tokenizer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/tokenizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/_base.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/_base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/datrie.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/datrie.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/py.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/trie/py.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/re-vendor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/re-vendor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/api.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/cacert.pem" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/hooks.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/hooks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/models.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/constants.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/request.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/response.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/structures.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/structures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/six.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/six.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/backwardcompat/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/backwardcompat/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/basecommand.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/basecommand.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/baseparser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/baseparser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/cmdoptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/cmdoptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/bundle.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/bundle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/completion.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/completion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/freeze.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/freeze.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/help.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/help.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/list.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/search.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/show.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/show.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/uninstall.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/uninstall.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/unzip.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/unzip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/zip.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/commands/zip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/download.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/download.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/index.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/locations.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/locations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/log.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/log.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/pep425tags.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/pep425tags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/req.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/req.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/runner.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/runner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/status_codes.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/status_codes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/util.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/bazaar.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/bazaar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/git.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/git.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/mercurial.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/mercurial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/subversion.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/vcs/subversion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/DESCRIPTION.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/METADATA" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/METADATA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/RECORD" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/RECORD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/WHEEL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/dependency_links.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/entry_points.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/pydist.json" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/pydist.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/requires.txt.orig" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/requires.txt.orig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/top_level.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/zip-safe" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-3.6.dist-info/zip-safe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/archive_util.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/archive_util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/alias.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/alias.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_egg.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_egg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_rpm.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_rpm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_wininst.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_wininst.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_ext.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_py.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_py.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/develop.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/develop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/easy_install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/easy_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/egg_info.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_egg_info.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_lib.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_lib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_scripts.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_scripts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/register.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/register.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/rotate.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/rotate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/saveopts.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/saveopts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/sdist.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/sdist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/setopt.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/setopt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/test.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/upload_docs.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/upload_docs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/depends.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/depends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/dist.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/dist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/extension.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/extension.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/lib2to3_ex.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/lib2to3_ex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/package_index.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/package_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py26compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py26compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py27compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py27compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py31compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py31compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/sandbox.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/sandbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script template (dev).py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script template (dev).py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script template.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script template.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/site-patch.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/site-patch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/ssl_support.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/ssl_support.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/svn_utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/svn_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/doctest.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/doctest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/environment.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/environment.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/py26compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/py26compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/script-with-bom.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/script-with-bom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/server.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/server.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_bdist_egg.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_bdist_egg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_build_ext.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_build_ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_develop.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_develop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_dist_info.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_dist_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_easy_install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_easy_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_egg_info.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_find_packages.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_find_packages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_markerlib.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_markerlib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_packageindex.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_packageindex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_resources.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_resources.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_sandbox.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_sandbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_sdist.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_sdist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_svn.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_svn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_test.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_upload_docs.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/tests/test_upload_docs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/version.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_internal.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_internal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/atom.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/atom.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/cache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/cache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/fixers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/fixers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/iterio.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/iterio.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/jsrouting.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/jsrouting.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/limiter.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/limiter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/lint.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/lint.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/profiler.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/profiler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/sessions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/testtools.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/testtools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/wrappers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/datastructures.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/datastructures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/console.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/console.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/repr.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/repr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/FONT_LICENSE" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/FONT_LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/debugger.js" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/debugger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/jquery.js" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/style.css" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/tbtools.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/tbtools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/formparser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/formparser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/http.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/http.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/local.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/local.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/posixemulation.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/posixemulation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/routing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/script.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/script.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/security.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/security.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/serving.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/serving.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/test.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testapp.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testapp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/cache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/cache.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/fixers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/fixers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/iterio.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/iterio.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/securecookie.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/securecookie.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/sessions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/sessions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/contrib/wrappers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/datastructures.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/datastructures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/debug.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/debug.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/formparser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/formparser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/http.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/http.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/internal.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/internal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/local.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/local.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/collect.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/collect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/request.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/request.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/text.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2png1txt/text.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/request.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/request.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/text.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/firefox3-2pnglongtext/text.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/request.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/request.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/text.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie6-2png1txt/text.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie7_full_path_request.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/ie7_full_path_request.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/request.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/request.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/text.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/opera8-2png1txt/text.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/request.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/request.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/text.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/multipart/webkit3-2png1txt/text.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/res/test.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/res/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/routing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/routing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/security.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/security.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/serving.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/serving.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/test.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/urls.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/wrappers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/wsgi.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/testsuite/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/urls.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/useragents.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/useragents.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wrappers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wsgi.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python2.7/site.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site.py" />
+    </list>
+    <ignored path="hatter.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hatter" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hatter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.hatter">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hatter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hatter" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hatter" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.hatter" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7405db1-61f5-411e-9ddc-0c93a808e12a" name="Default" comment="" />
+      <created>1474259895743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474259895743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

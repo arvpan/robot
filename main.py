@@ -24,7 +24,7 @@ respon = ' '
 
 @app.before_request
 def before_request():
-	g.respon = 'Hello , I am Tarrant the Hatter. Some people call me the Mad Hatter. Good to see you.'	
+	g.respon = 'Hello , Hugo The Robot. Some people call me the Mad Robot. Good to see you.'
 
 @app.route('/',methods=['GET','POST'])
 def index():
@@ -35,4 +35,4 @@ def index():
 	
 #running the app
 if __name__ == "__main__":
-	app.run(debug=True)
+	app.run(host='0.0.0.0', port=80)
