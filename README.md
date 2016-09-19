@@ -1,5 +1,4 @@
-# Hatter [![Circle CI](https://circleci.com/gh/gautamkrishnar/hatter.svg?style=svg)](https://circleci.com/gh/gautamkrishnar/hatter)
-Hatter is a chatbot writtrn in python. It uses aiml logic.
+
 
 ### Requirements
 - python 2.7
